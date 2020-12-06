@@ -114,3 +114,9 @@ border-color: #223745;
     object-fit: cover;
     opacity: 50%;
 }
+.row.text-center.text-md-left h5 {
+    color: #223745 !important;
+}
+.row.d-flex.justify-content-center > .text-info {
+    color: black;
+}
